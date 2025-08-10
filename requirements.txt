@@ -1,0 +1,37 @@
+# Walmart E-commerce Holiday Sales Data Pipeline
+# Requirements file for Python dependencies
+# 
+# Installation instructions:
+# pip install -r requirements.txt
+#
+# For development environment:
+# pip install -r requirements.txt --upgrade
+
+# Core Data Analysis Libraries
+pandas>=1.5.0          # Data manipulation and analysis
+numpy>=1.21.0          # Numerical computing support
+pyarrow>=10.0.0        # Parquet file format support
+
+# Jupyter Environment
+jupyter>=1.0.0         # Jupyter notebook environment
+ipykernel>=6.15.0      # IPython kernel for Jupyter
+
+# Optional: Enhanced Analytics (uncomment if needed)
+# matplotlib>=3.5.0    # Basic plotting capabilities
+# seaborn>=0.11.0      # Statistical data visualization
+# plotly>=5.10.0       # Interactive visualization
+# scipy>=1.9.0         # Scientific computing
+
+# Optional: Database Connectivity (uncomment if needed)
+# psycopg2-binary>=2.9.0  # PostgreSQL database adapter
+# sqlalchemy>=1.4.0       # SQL toolkit and ORM
+
+# Optional: Development Tools (uncomment for development)
+# pytest>=7.0.0           # Testing framework
+# black>=22.0.0           # Code formatting
+# flake8>=5.0.0           # Code linting
+# pre-commit>=2.20.0      # Git hooks framework
+
+# Optional: Performance Optimization (uncomment for large datasets)
+# dask>=2022.8.0          # Parallel computing
+# modin>=0.15.0           # Pandas acceleration

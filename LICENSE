@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Greenskin44 (Krumpin’ Coda)
+Copyright (c) 2025 Walmart E-commerce Holiday Sales Data Pipeline
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+EDUCATIONAL PURPOSE DISCLAIMER:
+
+This project is intended for educational purposes only and was inspired by 
+educational materials from DataCamp. The analysis, methodologies, and 
+conclusions presented here are for learning and demonstration purposes. 
+
+This work should not be used for actual business decisions without proper 
+validation and additional analysis. The data used in this project may be 
+simulated or anonymized and should not be considered representative of 
+actual Walmart business metrics.
+
+ACKNOWLEDGMENTS:
+
+This project was inspired by educational materials from DataCamp and serves 
+as a practical implementation of data engineering and analysis concepts. 
+We acknowledge DataCamp's contribution to data science education and the 
+open-source community for providing excellent tools and libraries.
